@@ -1,12 +1,14 @@
 <hr>
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnonNanoo&style=for-the-badge&label=Visitor" />
+  <br>
   <a href="https://discordapp.com/users/nen4284">
     <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AnonNanoo&style=for-the-badge&label=Visitor" />
   <br>
 </div>
 <hr>
+
 
 #### The bird of hermes is my name, eat my wings and make me tame.
 
