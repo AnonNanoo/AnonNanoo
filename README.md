@@ -9,7 +9,6 @@
 </div>
 <hr>
 
-
 #### The bird of hermes is my name, eat my wings and make me tame.
 
 <hr>
@@ -106,11 +105,31 @@
 ---
 
 ### Frameworks
+
+#### Frontend / Design
 <a href="https://react.dev/">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue"/>
 </a>
+<a href="https://shadcn.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn"/>
+</a>
+<a href="https://vitejs.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</a>
+
+
+#### Backend / ORM / Platform
 <a href="https://spring.io/projects/spring-boot">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</a>
+<a href="https://jakarta.ee/specifications/persistence/" target="_blank">
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="JPA"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/ef/" target="_blank">
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
 </a>
 <a href="https://dotnet.microsoft.com/">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -118,6 +137,8 @@
 <a href="https://dotnet.microsoft.com/apps/aspnet">
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </a>
+
+
 
 ---
 
@@ -144,7 +165,6 @@
 <a href="https://visualstudio.microsoft.com/">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9IiNmZmYiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8Zz4KCTxwYXRoIGQ9Ik00OTMuOCw1NS4yTDM4OC41LDQuNWMtMTIuMy01LjktMjYuOC0zLjQtMzYuNCw2LjJMMTUwLjMsMTk0LjhsLTg3LjktNjYuN2MtOC4yLTYuMy0xOS43LTUuNy0yNy4yLDEuMkw3LDE1NC45ICAgYy05LjMsOC40LTkuMywyMy4xLTAuMSwzMS41TDgzLjIsMjU2TDYuOSwzMjUuNmMtOS4yLDguNC05LjIsMjMuMSwwLjEsMzEuNWwyOC4yLDI1LjdjNy43LDYuOSwxOS4xLDcuNCwyNy4yLDEuMmw4Ny45LTY2LjcgICBsMjAxLjgsMTg0LjFjOS41LDkuNiwyNC4xLDEyLjEsMzYuMyw2LjJsMTA1LjQtNTAuN2MxMS4xLTUuMywxOC4xLTE2LjUsMTguMS0yOC44Vjg0QzUxMiw3MS43LDUwNC45LDYwLjUsNDkzLjgsNTUuMkw0OTMuOCw1NS4yeiAgICBNMzg0LjEsMzcyLjNMMjMwLjksMjU2bDE1My4yLTExNi4zVjM3Mi4zeiIvPgo8L2c+Cjwvc3ZnPg==&logoColor=white"/>
 </a>
-
 <a href="https://code.visualstudio.com/">
         <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9IiNmZmYiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8Zz4KCTxwYXRoIGQ9Ik00OTMuOCw1NS4yTDM4OC41LDQuNWMtMTIuMy01LjktMjYuOC0zLjQtMzYuNCw2LjJMMTUwLjMsMTk0LjhsLTg3LjktNjYuN2MtOC4yLTYuMy0xOS43LTUuNy0yNy4yLDEuMkw3LDE1NC45ICAgYy05LjMsOC40LTkuMywyMy4xLTAuMSwzMS41TDgzLjIsMjU2TDYuOSwzMjUuNmMtOS4yLDguNC05LjIsMjMuMSwwLjEsMzEuNWwyOC4yLDI1LjdjNy43LDYuOSwxOS4xLDcuNCwyNy4yLDEuMmw4Ny45LTY2LjcgICBsMjAxLjgsMTg0LjFjOS41LDkuNiwyNC4xLDEyLjEsMzYuMyw2LjJsMTA1LjQtNTAuN2MxMS4xLTUuMywxOC4xLTE2LjUsMTguMS0yOC44Vjg0QzUxMiw3MS43LDUwNC45LDYwLjUsNDkzLjgsNTUuMkw0OTMuOCw1NS4yeiAgICBNMzg0LjEsMzcyLjNMMjMwLjksMjU2bDE1My4yLTExNi4zVjM3Mi4zeiIvPgo8L2c+Cjwvc3ZnPg==&logoColor=white" />
       </a>
