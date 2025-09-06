@@ -22,6 +22,28 @@
 
 <hr>
 
+
+<div align="center">
+
+  ### 🌟 Favorite Combination
+  
+  <a href="https://shadcn.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  </a>
+</div>
+
+<hr>
+
+
 <h1 align="center">Skills <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"/></h1>
 
 <div align="center">
@@ -110,6 +132,12 @@
 </a>
 <a href="https://shadcn.com/" target="_blank">
   <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn"/>
+</a>
+<a href="https://reactbits.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/React%20Bits-000000?style=for-the-badge&logo=https://reactbits.dev/assets/react-bits-logo-BEVRCkxh.svg&logoColor=white" alt="React Bits"/>
+</a>
+<a href="https://lucide.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Lucide-8B0000?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide"/>
 </a>
 <a href="https://vitejs.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
