@@ -28,6 +28,9 @@
 ### 🌟 Favorite Combination 
 <span style="font-size:0.8em; color:gray;">(so far)</span>
 
+<a href="https://react.dev/">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue"/>
+</a>
   <a href="https://shadcn.com/" target="_blank">
     <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn"/>
   </a>
