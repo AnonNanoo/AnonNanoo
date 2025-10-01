@@ -29,7 +29,7 @@
 <div align="center">
   
 ### 🌟 Favorite Combination 
-<span style="font-size:0.8em; color:gray;">(so far)</span>
+<sub>(so far)</sub>
 
 <a href="https://www.typescriptlang.org/">
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
