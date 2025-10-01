@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <br>
-  <sub>Or use my mail.</sub>
+  <sub>Or use my mail for contact.</sub>
   
   <sup><sub>(Won't happen)</sub></sup>
 </div>
