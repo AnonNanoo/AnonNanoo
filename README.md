@@ -59,6 +59,9 @@
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
   <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3OTAgNzkwIj48cGF0aCBmaWxsPSIjMDAwIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Im0zOTUgMzYtMzcuMjAzIDIxLjQ3OUw4NC4wOTcgMjE1LjV2MzU5TDM5NSA3NTRsMzEwLjkwMy0xNzkuNXYtMzU5TDQzNS4zOTUgNTkuMzIyeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTM5Ny4yNTIgNjE4Yy0xMjIuODgzIDAtMjIyLjUtOTkuNjE3LTIyMi41LTIyMi41UzI3NC4zNjkgMTczIDM5Ny4yNTIgMTczYzgyLjIyNCAwIDE1NC42NzkgNDUuNzMgMTkzLjE5NyAxMTIuMDYzbC04OC4wNTYgNTAuODdjLTIwLjc1MS0zNy4wOTQtNTkuNjE0LTYxLjc1MS0xMDUuMTQxLTYxLjc1MS02Ny4wMDIgMC0xMjEuMzE2IDU0LjMxNi0xMjEuMzE2IDEyMS4zMThzNTQuMzE0IDEyMS4zMTggMTIxLjMxNiAxMjEuMzE4YzQ1LjIyOCAwIDg0LjY3NS0yNC43NTIgMTA1LjUzNy02MS40NDdsODcuOTQzIDUwLjA3NEM1NTIuNDUgNTcyLjY3IDQ4MC4xNDUgNjE4IDM5Ny4yNTIgNjE4Ii8+PHRleHQgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeD0iNTMyLjQxMzMzIiB5PSI0NDciIGZpbGw9IiNmZmYiIGZvbnQtZmFtaWx5PSJPcGVuIFNhbnMiIGZvbnQtc2l6ZT0iMTY5IiBmb250LXdlaWdodD0iNzAwIj4jPC90ZXh0Pjwvc3ZnPg==&logoColor=white"/>
 </a>
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</a>
 <a href="https://www.typescriptlang.org/">
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
 </a>
